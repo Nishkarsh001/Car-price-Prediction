@@ -1,4 +1,3 @@
-Nishkarsh001.Car-price-Prediction
 # Car-price-Prediction
 Analyzed the data of 550k rows and 22 features from Craiglist.org(Kaggle) to predict the price. 
 
